@@ -46,7 +46,7 @@ piece_symbols = {
 # =========================================================
 
 root = tk.Tk()
-root.title("♟️ Samyukth Chess Engine")
+root.title("♟️ Sam Chess Engine")
 root.configure(bg="#0F172A")
 
 buttons = []
@@ -150,7 +150,7 @@ difficulty_label = tk.Label(
     text="Current Difficulty: Advanced",
     font=("Arial", 12, "bold"),
     bg="#0F172A",
-    fg="white"
+    fg="black"
 )
 
 difficulty_label.pack(pady=12)
