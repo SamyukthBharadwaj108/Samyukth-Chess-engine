@@ -1,4 +1,4 @@
-# ♟️ Samyukth Chess Engine
+# ♟️ Nightmare` Chess engine
 
 A fully functional chess application developed in Python, featuring an interactive graphical user interface and Stockfish-powered artificial intelligence. The project demonstrates GUI development, chess engine integration, move validation, and real-time position evaluation within a complete desktop application.
 
