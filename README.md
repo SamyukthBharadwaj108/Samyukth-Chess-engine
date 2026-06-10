@@ -6,7 +6,7 @@ A fully functional chess application developed in Python, featuring an interacti
 
 ## 📖 Overview
 
-The Samyukth Chess Engine was developed to explore chess programming, artificial intelligence, and software development using Python. The application allows users to play chess against a configurable AI opponent while leveraging the Stockfish engine for advanced position evaluation and strategic move selection.
+The Nightmare` Chess Engine was developed to explore chess programming, artificial intelligence, and software development using Python. The application allows users to play chess against a configurable AI opponent while leveraging the Stockfish engine for advanced position evaluation and strategic move selection.
 
 This project combines algorithmic thinking, user interface design, and engine integration to create an engaging desktop chess experience.
 
@@ -43,8 +43,8 @@ This project combines algorithmic thinking, user interface design, and engine in
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/SamyukthBharadwaj108/Samyukth-Chess-engine.git
-cd Samyukth-Chess-engine
+git clone https://github.com/SamyukthBharadwaj108/Nighmare`-Chess-engine.git
+cd Nightmare`-Chess-engine
 ```
 
 ### Install Dependencies
@@ -109,7 +109,7 @@ Planned improvements include:
 ## 📂 Project Structure
 
 ```text
-Samyukth-Chess-engine/
+Nightmare`-Chess-engine/
 │
 ├── main.py
 ├── README.md
